@@ -1,6 +1,8 @@
 This is a test text,
 
 Purple
+new add
+
 Pink
 Orange
 Blue
